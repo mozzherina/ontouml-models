@@ -1,0 +1,17 @@
+title: Design Science Artifact Ontology
+created-at: 2020
+last-update: 2021
+domain:
+  - design science
+  - IT artifact
+types:
+  - core
+language: en
+purpose: 
+  - conceptual clarification
+  - classification
+context: 
+  - research
+main-source: weigand2021designscience
+style:
+  - ontouml
